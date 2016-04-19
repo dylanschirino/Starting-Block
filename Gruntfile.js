@@ -1,10 +1,4 @@
-/* hepl-mmi/workflow
- *
- * /Gruntfile.js - Grunt configuration file
- *
- * coded by leny@flatLand!
- * started at 11/02/2016
- */
+
 
 "use strict";
 
